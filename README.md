@@ -13,8 +13,7 @@ For comparison, the solution written by the creators can be found on their githu
 ---
 
 ## Contents
-- **Billing Logic**: Detailed explanation of how the bill is calculated.
-- **Sample Output**: Example result of a successful run.
+- **Readme**: Containing a detailed explanation of how the bill is calculated and a **Sample Output**.
 - **Code**: The main logic of the application implemented in C (see `electricity_bill`)
 ---
 
@@ -77,7 +76,7 @@ WARNING: PAYMENT DUEDATE HAS PASSED!
 Final Amount with DueDate Penalty: $288.00
 
 *******************
-
+```
 
 ---
 

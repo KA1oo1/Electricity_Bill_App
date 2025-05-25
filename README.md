@@ -14,7 +14,7 @@ For comparison, the solution written by the creators can be found on their githu
 
 ## Contents
 - **Readme**: Containing a detailed explanation of how the bill is calculated and a **Sample Output**.
-- **Code**: The main logic of the application implemented in C (see  [Electricity_Bill_App](./Code))
+- **Code**: The main logic of the application implemented in C (see  [Electricity_Bill_App](./Code.c))
 ---
 
 ## How It Works
@@ -82,7 +82,7 @@ Final Amount with DueDate Penalty: $288.00
 
 ## Code
 
-The full implementation is provided in the [Electricity_Bill_App](./Code) file.
+The full implementation is provided in the [Electricity_Bill_App](./Code.c) file.
 
 ---
 
